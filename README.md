@@ -85,5 +85,5 @@ Through this project, I learned how to create and manage relational databases us
 
 ---
 
-## 📚 Conclusion
+##  Conclusion
 This project provided practical experience in database creation, constraint implementation, and data management. It enhanced my SQL skills and improved my understanding of relational database concepts used in real-world applications.
